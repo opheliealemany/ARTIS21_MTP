@@ -1,0 +1,53 @@
+#CV {
+    font-family: Verdana, sans-serif;
+    color:#886202;
+    text-align:center;
+    font-size: 24pt;
+}
+.entete{
+    column-width: 30%;
+}
+img{
+    border-radius: 15px;
+    width: 300px;    
+}
+article{
+    border: 2px solid #f3d3cb;
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom:2%;
+}
+h2{
+    color:#886202;
+}
+.experience{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+    font-weight: bold;
+    font-size: 16pt;
+}
+.formation{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+    font-weight: bold;
+    font-size: 16pt;
+}
+.p1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:12pt;
+}
+.p2{
+    text-align: justify;
+    padding-left: 25%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:12pt;
+}
+.p3{
+    text-align: justify;
+    padding-left: 35%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:12pt;
+}
